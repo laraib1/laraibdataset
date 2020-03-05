@@ -1,0 +1,51 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,battingFirst,hometeam,lastmatch,Last3Matches,LAST6MATCH,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Kieron Pollard,26/12/2008,t2o,New Zealand,New Zealand,new zealand,west Indies,new zealand,didn't play any t20,didn't play,Didn't play,rainy,dasty,OUT,5 down,7
+Kieron Pollard,28/12/2008,t2o,New Zealand,New Zealand,new zealand,west Indies,new zealand,worst,didn't play,Didn't play,sunny,dasty,IN,5 down,38
+Kieron Pollard,15/03/2009,t2o,England,west indies,England,west Indies,west indies,best,didn't play,Didn't play,sunny,dead,OUT,5 down,4
+Kieron Pollard,10/6/2009,t2o,Sri Lanka,west indies,Sri Lanka,west Indies,none,worst,BEST,Didn't play,sunny,green,OUT,6 down,19
+Kieron Pollard,13/06/2009,t2o,South Africa,west indies,south Africa,west Indies,none,avg,BEST,Didn't play,rainy,dead,OUT,6 down,6
+Kieron Pollard,15/06/2009,t2o,England,England,England,west Indies,england,worst,BEST,Didn't play,sunny,dead,OUT,4 down,9
+Kieron Pollard,19/06/2009,t2o, Sri Lanka,west indies,Sri Lanka,west Indies,none,worst,BEST,AVG,sunny,green,OUT,6 down,3
+Kieron Pollard, 21/02/2010,t2o,Australia,Australia,Australia,west Indies,Australia,worst,BEST,WORST,sunny,green,OUT,3 down,12
+Kieron Pollard,23/02/2010,t2o,Australia,west indies,West Indies,Australia,Australia,avg,BEST,AVG,rainy,green,OUT,3 down,5
+Kieron Pollard, 28/02/2010,t2o,Zimbabwe,Zimbabwe,Zimbabwe,west Indies,west indies,worst,BEST,AVG,rainy,dead,OUT,3 down,1
+Kieron Pollard,30/04/2010,t2o,Ireland,west indies,West Indies,Ireland,west indies,worst,BEST,AVG,rainy,dead,OUT,7 down,8
+Kieron Pollard,7/5/2010,t2o,Sri Lanka,Sri lanka,Sri Lanka,west Indies,west indies,worst,BEST,AVG,sunny,green,OUT,5 down,9
+Kieron Pollard,9/5/2010,t2o,India,India,West Indies,India,west indies,worst,BEST,AVG,sunny,dead,OUT,3 down,17
+Kieron Pollard,11/5/2010,t2o, Australia,west indies,West Indies,Australia,west indies,avg,BEST,WORST,rainy,dead,OUT,6 down,13
+Kieron Pollard, 19/05/2010,t2o,South Africa,west indies,south Africa,west Indies,west indies,avg,BEST,AVG,sunny,dead,IN,5 down,27
+Kieron Pollard, 20/05/2010,t2o,South Africa,west indies,south Africa,west Indies,west indies,best,BEST,AVG,sunny,dead,OUT,4 down,12
+Kieron Pollard,27/03/2012,t2o,Australia,west indies,West Indies,Australia,west indies,avg,BEST,BEST,rainy,dead,IN,4 down,54
+Kieron Pollard,30/03/2012,t2o,Australia,west indies,West Indies,Australia,west indies,worst,BEST,BEST,sunny,dead,OUT,2 down,1
+Kieron Pollard,24/06/2012,t2o,England,west indies,West Indies,england,england,best,BEST,AVG,sunny,green,IN,5 down,23
+Kieron Pollard,30/06/2012,t2o,New Zealand,New Zealand,West Indies,new zealand,none,worst,BEST,BEST,rainy,dasty,IN,3 down,63
+Kieron Pollard,22/09/2012,t2o,Australia,west indies,West Indies,Australia,none,avg,BEST,BEST,rainy,green,OUT,5 down,10
+Kieron Pollard, 27/09/2012 ,t2o,England,west indies,West Indies,england,none,worst,BEST,BEST,rainy,green,OUT,3 down,1
+Kieron Pollard,29/09/2012,t2o,Sri Lanka,west indies,West Indies,sri lanka,sri lanka,worst,BEST,BEST,rainy,green,OUT,4 down,1
+Kieron Pollard,1/10/2012,t2o,New Zealand,New Zealand,West Indies,new zealand,none,worst,BEST,AVG,sunny,dasty,IN,5 down,28
+Kieron Pollard,5/10/2012,t2o,Australia,west indies,West Indies,Australia,none,avg,worst,AVG,sunny,green,IN,4 down,38
+Kieron Pollard,7/10/2012,t2o,Sri Lanka,west indies,West Indies,sri lanka,sri lanka,worst,BEST,AVG,rainy,green,OUT,4 down,2
+Kieron Pollard,10/12/2012,t2o,Bangladesh,west indies,West Indies,bangladesh,bagladesh,worst,BEST,AVG,sunny,green,OUT,4 down,15
+Kieron Pollard, 03/08/2019,t2o,India,India,West Indies,india,none,worst,BEST,AVG,sunny,green,IN,3 down,49
+Kieron Pollard,4/8/2019,t2o,India,India,West Indies,west Indies,none,worst,BEST,AVG,rainy,green,OUT,4 down,8
+Kieron Pollard,6/8/2019,t2o,India,India,West Indies,India,west indies,avg,BEST,AVG,sunny,dead,IN,3 down,58
+Kieron Pollard,14/11/2019,t2o,Afghanistan,Afghanistan,West Indies,afghanistan,none,avg,BEST,AVG,sunny,green,IN,4 down,32
+Kieron Pollard,16/11/2019,t2o,Afghanistan,Afghanistan,afghanistan,west Indies,none,best,BEST,AVG,rainy,green,OUT,4 down,7
+Kieron Pollard,17/11/2019,t2o,Afghanistan,Afghanistan,afghanistan,west Indies,none,avg,BEST,BEST,rainy,green,OUT,5 down,11
+Kieron Pollard, 06/12/2019,t2o,India,India,West Indies,India,india,best,BEST,BEST,rainy,green,IN,4 down,37
+Kieron Pollard,11/12/2019,t2o,India,west indies,india,west Indies,india,worst,BEST,BEST,rainy,green,IN,4 down,68
+Kieron Pollard,26/03/2017,t2o,Pakistan,Pakistan,West Indies,pakistan,west indies,best,BEST,BEST,sunny,dead,OUT,4 down,14
+Kieron Pollard, 30/03/2017 ,t2o,Pakistan,west indies,pakistan,west Indies,west indies,best,BEST,BEST,sunny,dasty,OUT,4 down,3
+Kieron Pollard,2/4/2017,t2o,Pakistan,Pakistan,West Indies,pakistan,west indies,worst,BEST,AVG,rainy,dead,OUT,5 down,3
+Kieron Pollard,16/09/2017,t2o,England,England,West Indies,england,england,worst,BEST,AVG,sunny,green,OUT,4 down,6
+Kieron Pollard,9/1/2015,t2o,South Africa,South Africa,south Africa,west Indies,south africa,worst,BEST,AVG,sunny,dasty,OUT,4 down,8
+Kieron Pollard,11/1/2015,t2o,South Africa,west indies,south Africa,west Indies,south africa,best,BEST,AVG,rainy,dead,OUT,3 down,7
+Kieron Pollard,14/01/2015,t2o,South Africa,west indies,south Africa,west Indies,south africa,best,BEST,AVG,sunny,dead,OUT,5 down,20
+Kieron Pollard,9/11/2015,t2o,Sri Lanka,west indies,Sri Lanka,west Indies,sri lanka,worst,BEST,BEST,sunny,green,IN,5 down,26
+Kieron Pollard,11/11/2015,t2o,Sri Lanka,west indies,West Indies,sri lanka,sri lanka,avg,BEST,AVG,rainy,green,OUT,6 down,5
+Kieron Pollard,27/08/2016 ,t2o,India,India,West Indies,India,none,best,BEST,AVG,rainy,green,IN,3 down,22
+Kieron Pollard,28/08/2016,t2o,India,India,West Indies,India,none,worst,BEST,BEST,rainy,green,OUT,5 down,13
+Kieron Pollard,23/09/2016,t2o,Pakistan,Pakistan,West Indies,pakistan,none,best,BEST,AVG,sunny,green,OUT,6 down,9
+Kieron Pollard,24/09/2016,t2o,Pakistan,west indies,pakistan,west Indies,none,best,BEST,AVG,rainy,green,OUT,5 down,18
+Kieron Pollard,27/09/2016,t2o,Pakistan,Pakistan,West Indies,pakistan,none,worst,BEST,AVG,sunny,green,OUT,6 down,16
+Kieron Pollard,15/01/2020,t2o,Ireland,Ireland,ireland,west Indies,west indies,avg,BEST,AVG,sunny,dasty,IN,3 down,31
